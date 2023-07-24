@@ -1,0 +1,8 @@
+name = "LuckPerms Fabric PlaceholderAPI Hook"
+filename = "LuckPerms-Fabric-PlaceholderAPI-Hook.jar"
+side = "server"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "8725f502a6277a38be066c0c7b8a11a193381c0de8e1f5857debd67f282cbd04"

@@ -1,0 +1,8 @@
+name = "Fabric Permissions API"
+filename = "fabric-permissions-api.jar"
+side = "server"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "a8e808dffaa62afaa2780cf712865bab0941572568ffad573f1bec94c459b9b9"

@@ -1,6 +1,19 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "4fb0cb37de5a6de765958c81c93af543c6c89b69d0fbbf9eda2380c3138101d2"
+
+[[files]]
+file = "mods/LuckPerms-Fabric-PlaceholderAPI-Hook.jar"
+hash = "8725f502a6277a38be066c0c7b8a11a193381c0de8e1f5857debd67f282cbd04"
+
+[[files]]
+file = "mods/LuckPerms-Fabric-PlaceholderAPI-Hook.pw.toml"
+hash = "f105c8e64786109c545fc594a643fc44b3a49f702d689ad6fa5fb3381818c115"
+metafile = true
+
+[[files]]
 file = "mods/async-locator.pw.toml"
 hash = "b0c84806bc32028e006144a81865ff5180614bb8146ffc265a905bb2c6c3e1bb"
 metafile = true
@@ -36,6 +49,20 @@ hash = "901f5e42d26508230a41b6f91e1da18910b201aa3730057853d135820f24ec8c"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "ff4a66502e802341a84fbb8eceed65156b14436769b1f7e27a68b22fb59c1dae"
+metafile = true
+
+[[files]]
+file = "mods/fabric-permissions-api.jar"
+hash = "a8e808dffaa62afaa2780cf712865bab0941572568ffad573f1bec94c459b9b9"
+
+[[files]]
+file = "mods/fabric-permissions-api.pw.toml"
+hash = "3b349a6282921c190f8dda084f7c423aa227c3c048b3293d0e8d0c7d363cd036"
+metafile = true
+
+[[files]]
 file = "mods/faster-random.pw.toml"
 hash = "73f815e7ef5c0589d30b901856be86dd0e6ceee51b4d361fb5bdda43e9dafd09"
 metafile = true
@@ -56,8 +83,23 @@ hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
+file = "mods/ledger.pw.toml"
+hash = "84defc8f8116d5c0e4210934ed1f555641a1db71b767fa4beddee21c47118868"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/log-begone.pw.toml"
+hash = "86ce30ccc9a035c6249d8140abf8d0fae7f828472913409b3febf46394bbc34d"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "879f42a9c6ede67873e773764319cc52105db1c5bfdd540878c9a28eaa0c5561"
 metafile = true
 
 [[files]]
@@ -76,13 +118,38 @@ hash = "e8fa46e5c43883dbdc0ad1069813f2b079ea948ff59a6c00defda16363545871"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "7ca0983d3b7852c06f84c66b9f12da8115ff9b8ba63293cd20452377a0de726e"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
 metafile = true
 
 [[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "4f101cf87d3e2228c8c62e3b91ecdb1825809841041e709f9d1480d4e25fad3a"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "e6f4e06c4d4442c08a9f64772a3e078209d57a5d81f6c8ee0fde0da006789a3a"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "8a6442ca759237fb4346e02653feba023529db29127c6b20740801199395241d"
+metafile = true
+
+[[files]]
 file = "mods/syncmatica.pw.toml"
 hash = "dfaa5e251f139791e93bf7cc7db9d69798a6636e8f2affd3d98cc9b79a4d0458"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-permissions.pw.toml"
+hash = "074cf2d26afeb275889bc2df21e3d4300cc1cd4b409c42ff35fc134ba19a78ab"
 metafile = true
 
 [[files]]
