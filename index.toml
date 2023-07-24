@@ -19,6 +19,11 @@ hash = "b0c84806bc32028e006144a81865ff5180614bb8146ffc265a905bb2c6c3e1bb"
 metafile = true
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "3690fe53a1adf07216a2292de05561752fd9e3f598615fa4edce10ae797694de"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "78bf078da5e46c2513889f86aa24e522d0651055b5a93a17341b96fdcba70b5e"
 metafile = true
@@ -115,6 +120,11 @@ metafile = true
 [[files]]
 file = "mods/recipecooldown.pw.toml"
 hash = "e8fa46e5c43883dbdc0ad1069813f2b079ea948ff59a6c00defda16363545871"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "5917df3c585bc3cc3de70143a41efa3507e33a95007eab91f992736a4e5ffe0b"
 metafile = true
 
 [[files]]
