@@ -68,6 +68,11 @@ hash = "3b349a6282921c190f8dda084f7c423aa227c3c048b3293d0e8d0c7d363cd036"
 metafile = true
 
 [[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "2e505480c06836448dfe277bdf93d184ca1aca821291574ddd3fccfe9f0ca387"
+metafile = true
+
+[[files]]
 file = "mods/faster-random.pw.toml"
 hash = "73f815e7ef5c0589d30b901856be86dd0e6ceee51b4d361fb5bdda43e9dafd09"
 metafile = true
@@ -108,13 +113,28 @@ hash = "879f42a9c6ede67873e773764319cc52105db1c5bfdd540878c9a28eaa0c5561"
 metafile = true
 
 [[files]]
+file = "mods/mcdiscordchat.pw.toml"
+hash = "fd5c552628fcda7f9c6504c5e7f6712bd87d9649e18da8a13028d7d4fa81ff56"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "83b476730dba8c3cdc9ee6ed4e0623f97bc116848aebfe3149eece321083b251"
+metafile = true
+
+[[files]]
+file = "mods/raknetify.pw.toml"
+hash = "e01e749bc9136bf07c90a76c3eaff99c3be2469f37045b8920eb1632eb057720"
 metafile = true
 
 [[files]]
