@@ -9,11 +9,6 @@ file = "mods/LuckPerms-Fabric-PlaceholderAPI-Hook.jar"
 hash = "8725f502a6277a38be066c0c7b8a11a193381c0de8e1f5857debd67f282cbd04"
 
 [[files]]
-file = "mods/LuckPerms-Fabric-PlaceholderAPI-Hook.pw.toml"
-hash = "f105c8e64786109c545fc594a643fc44b3a49f702d689ad6fa5fb3381818c115"
-metafile = true
-
-[[files]]
 file = "mods/async-locator.pw.toml"
 hash = "b0c84806bc32028e006144a81865ff5180614bb8146ffc265a905bb2c6c3e1bb"
 metafile = true
@@ -61,11 +56,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-permissions-api.jar"
 hash = "a8e808dffaa62afaa2780cf712865bab0941572568ffad573f1bec94c459b9b9"
-
-[[files]]
-file = "mods/fabric-permissions-api.pw.toml"
-hash = "3b349a6282921c190f8dda084f7c423aa227c3c048b3293d0e8d0c7d363cd036"
-metafile = true
 
 [[files]]
 file = "mods/fabricproxy-lite.pw.toml"
