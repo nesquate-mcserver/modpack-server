@@ -5,6 +5,18 @@ file = "README.md"
 hash = "4fb0cb37de5a6de765958c81c93af543c6c89b69d0fbbf9eda2380c3138101d2"
 
 [[files]]
+file = "config/styled-chat.json"
+hash = "fc67b511f239aaf82dee4480ccce15c29f0870f956ee668a106f2ec25093e540"
+
+[[files]]
+file = "config/styledplayerlist/config.json"
+hash = "b87de7a7b0911989d203f78a034f1ab15d26ee3ac985adc40be9cffa8c27aeff"
+
+[[files]]
+file = "config/styledplayerlist/styles/default.json"
+hash = "7daf3398b2ed1aa1fed812bbad1bde2e99ad7ad34d38fecba23ca1f12d266bdd"
+
+[[files]]
 file = "mods/LuckPerms-Fabric-PlaceholderAPI-Hook.jar"
 hash = "8725f502a6277a38be066c0c7b8a11a193381c0de8e1f5857debd67f282cbd04"
 
