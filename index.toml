@@ -60,6 +60,11 @@ hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
 metafile = true
 
 [[files]]
+file = "mods/chunkdebug.pw.toml"
+hash = "ac084f12dc66779c0e8518e54fcad9b644a35a68f419b9c8bb14f7e10cedc253"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "901f5e42d26508230a41b6f91e1da18910b201aa3730057853d135820f24ec8c"
 metafile = true
