@@ -14,7 +14,7 @@ hash = "b87de7a7b0911989d203f78a034f1ab15d26ee3ac985adc40be9cffa8c27aeff"
 
 [[files]]
 file = "config/styledplayerlist/styles/default.json"
-hash = "7daf3398b2ed1aa1fed812bbad1bde2e99ad7ad34d38fecba23ca1f12d266bdd"
+hash = "5b64a5cb4b72963b04dea7ffa645761afd7b5713b915016bc78321a8fb9fe78c"
 
 [[files]]
 file = "mods/LuckPerms-Fabric-PlaceholderAPI-Hook.jar"
