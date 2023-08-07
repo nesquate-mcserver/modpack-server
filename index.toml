@@ -94,6 +94,11 @@ hash = "6beecae4007fc03a0fc56f4c9338492852351422ecb50aa41e9c04b6c5e259d1"
 metafile = true
 
 [[files]]
+file = "mods/holograms.pw.toml"
+hash = "16338925ca6723d1dc4a8927583ad3231c6539334f2a0a6b480501dc31db7c6f"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
