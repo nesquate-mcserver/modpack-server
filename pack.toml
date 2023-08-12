@@ -1,6 +1,6 @@
 name = "Server modpack for Nesquate's Minecraft Server"
 author = "Nesquate"
-version = "1.0.0"
+version = "1.0.1-creative"
 pack-format = "packwiz:1.1.0"
 
 [index]
