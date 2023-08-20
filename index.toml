@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "78bf078da5e46c2513889f86aa24e522d0651055b5a93a17341b96fdcba70b5e"
+hash = "d4e882278d0a8d863a069df56f6e473e81e79c48f8cc6e700a56f297847178ca"
 metafile = true
 
 [[files]]
@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "0f67402e8edd973bcc4e5f514ddfc8d7a42acc7a38d72cec2da291f1035fcc38"
+hash = "34fb45a92a944e3be6bd52607558863bad577f4cff406079e5c44c94fdc5ad21"
 metafile = true
 
 [[files]]
@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "901f5e42d26508230a41b6f91e1da18910b201aa3730057853d135820f24ec8c"
+hash = "3a93a5b987d89b3ce4208d1e31b3a5636fc6363ff33896f5a7ad8961df94a236"
 metafile = true
 
 [[files]]
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "e01e749bc9136bf07c90a76c3eaff99c3be2469f37045b8920eb1632eb057720"
+hash = "b91403d79bac93eb117cd72fe96f0f35df00049a2eae54d1423df9d5c80d6e75"
 metafile = true
 
 [[files]]
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "5917df3c585bc3cc3de70143a41efa3507e33a95007eab91f992736a4e5ffe0b"
+hash = "26f4d730e6876aaf57d8e00bfb401f50178b83d91fc62d974b1b350e19a62bfa"
 metafile = true
 
 [[files]]
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/syncmatica.pw.toml"
-hash = "dfaa5e251f139791e93bf7cc7db9d69798a6636e8f2affd3d98cc9b79a4d0458"
+hash = "80ab29cd4fa74c7d6f0cf3e8bd895888738a7c531658eeff2130d1e7b37c6bcf"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "dc3970e3d66599050e917319f42a8a002f2ec0ed744d3140acc5a6f3d032199f"
+hash = "93e2bb699bae8854559b94395f8d3468682f61b52db24a8a076b946a87635e3c"
 metafile = true
 
 [[files]]
