@@ -1,0 +1,7 @@
+name = "WeatherChanger"
+filename = "weatherchanger-1.0.0.jar"
+
+[download]
+url = "https://github.com/Nesquate/WeatherChanger/releases/download/v1.0.0/weatherchanger-1.0.0.jar"
+hash-format = "sha256"
+hash = "86802147b33fc04445b67b41706fa525c93fbb0decb63feb5e0890372b608563"
