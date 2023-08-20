@@ -212,3 +212,7 @@ metafile = true
 file = "mods/worldedit.pw.toml"
 hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
+
+[[files]]
+file = "world/carpet.conf"
+hash = "423ece2182637736da2565fcb774e000641054e7467da9efe1873877a1a5e23d"
