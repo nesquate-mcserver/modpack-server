@@ -65,6 +65,11 @@ hash = "ac084f12dc66779c0e8518e54fcad9b644a35a68f419b9c8bb14f7e10cedc253"
 metafile = true
 
 [[files]]
+file = "mods/dynmap.pw.toml"
+hash = "4b26f1a1e781e53f02992fa95feff846a3ac4f66b65cf1180695ad9d47e03356"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "3a93a5b987d89b3ce4208d1e31b3a5636fc6363ff33896f5a7ad8961df94a236"
 metafile = true
@@ -136,6 +141,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
+metafile = true
+
+[[files]]
+file = "mods/mysql-jdbc.pw.toml"
+hash = "447c614bb50b65b7f9cfb3c8ecc29da23911336e2790fd817ee7dc2e3c4a8bf7"
 metafile = true
 
 [[files]]
