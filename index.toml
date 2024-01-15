@@ -36,11 +36,6 @@ hash = "d3a7764f686bd4c6e44ef7e2ec0581fdefeb9ed3d4aab1db63aa58821a264d61"
 metafile = true
 
 [[files]]
-file = "mods/carpet-extra.pw.toml"
-hash = "029e4b7bdea59b13a65ccb1fa2a77932e6f367cfa92d75aa355e828a943b856e"
-metafile = true
-
-[[files]]
 file = "mods/carpet-tis-addition.pw.toml"
 hash = "6ea66a58b0188c6e5ec3375e066c03ed63c2dbd72289c5c9ad27803612f3cc58"
 metafile = true
