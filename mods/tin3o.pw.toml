@@ -1,7 +1,0 @@
-name = "TIN3O"
-filename = "TIN3O-1.0.1.jar"
-
-[download]
-url = "https://github.com/charassss/tin3o/releases/download/v1.0.1/TIN3O-1.0.1.jar"
-hash-format = "sha256"
-hash = "e1ec0510fbe5627dcbf31b56dc8b51573c97a4cb673530d29116b1918e9beacd"

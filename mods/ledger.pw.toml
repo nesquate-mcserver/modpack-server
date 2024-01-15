@@ -1,11 +1,11 @@
 name = "Ledger"
-filename = "ledger-1.2.10-dev-all.jar"
+filename = "ledger-1.2.10.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/LVN9ygNV/versions/Lueqwp86/ledger-1.2.10-dev-all.jar"
+url = "https://cdn.modrinth.com/data/LVN9ygNV/versions/Lueqwp86/ledger-1.2.10.jar"
 hash-format = "sha1"
-hash = "7b1db0300427ba7f5219c00bf9a819a72cfc1822"
+hash = "96823116f8a6d026366041f17cd1856df4d79f6e"
 
 [update]
 [update.modrinth]

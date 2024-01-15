@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/ledger.pw.toml"
-hash = "a6a2f55da82e07961e50c0ee6c177b889cfcb3fbc5617493f467f6df89ac0c11"
+hash = "72c0e40f9da94cf5dad4d4dbcd264a58cf785fff2f86f1738df77e5d4ef410b4"
 metafile = true
 
 [[files]]
@@ -157,11 +157,6 @@ metafile = true
 [[files]]
 file = "mods/syncmatica.pw.toml"
 hash = "b8686f7382b6667de82d37b7f0ef8a33955b6ee65231d0178fb78d6eb14bf5a5"
-metafile = true
-
-[[files]]
-file = "mods/tin3o.pw.toml"
-hash = "43fcbb4e527824117bc49b79945254265a91b0a764c1c0c4df6762751a9d2a8a"
 metafile = true
 
 [[files]]
