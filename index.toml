@@ -21,10 +21,6 @@ file = "mods/LuckPerms-Fabric-PlaceholderAPI-Hook.jar"
 hash = "8725f502a6277a38be066c0c7b8a11a193381c0de8e1f5857debd67f282cbd04"
 
 [[files]]
-file = "mods/TIN3O-1.0.0.jar"
-hash = "746cee7f61f204c169fc8255feec025a347f4653bef562963ea392281e002ff7"
-
-[[files]]
 file = "mods/async-locator.pw.toml"
 hash = "b0c84806bc32028e006144a81865ff5180614bb8146ffc265a905bb2c6c3e1bb"
 metafile = true
