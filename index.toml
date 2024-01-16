@@ -36,6 +36,15 @@ hash = "d3a7764f686bd4c6e44ef7e2ec0581fdefeb9ed3d4aab1db63aa58821a264d61"
 metafile = true
 
 [[files]]
+file = "mods/carpet-extra-meenimc.pw.toml"
+hash = "90b5c97ebbcde4b60cfc347f5f4ffc6c74ccf1325ecf101dac9622ce28554e66"
+metafile = true
+
+[[files]]
+file = "mods/carpet-fixes-1.20-1.16.1.jar"
+hash = "8c5528b69eabfc6b76df3806d61d400a95ee65ea0e55f7a16f16a4af8480d55b"
+
+[[files]]
 file = "mods/carpet-tis-addition.pw.toml"
 hash = "6ea66a58b0188c6e5ec3375e066c03ed63c2dbd72289c5c9ad27803612f3cc58"
 metafile = true

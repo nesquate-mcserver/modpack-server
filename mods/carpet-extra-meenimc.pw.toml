@@ -1,0 +1,7 @@
+name = "carpet-extra-meenimc"
+filename = "carpet-extra-1.20.3-1.4.128-meenimc.1.jar"
+
+[download]
+url = "https://github.com/MeeniMc/carpet-extra/releases/download/v1.4.128-meenimc.1/carpet-extra-1.20.3-1.4.128-meenimc.1.jar"
+hash-format = "sha256"
+hash = "6d9c02c6952da3d0d8797b5568d9eb455d9cfbbaaecbd2dbc1aeb9f98880f2ad"
