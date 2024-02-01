@@ -36,13 +36,18 @@ hash = "d3a7764f686bd4c6e44ef7e2ec0581fdefeb9ed3d4aab1db63aa58821a264d61"
 metafile = true
 
 [[files]]
-file = "mods/carpet-extra-meenimc.pw.toml"
-hash = "90b5c97ebbcde4b60cfc347f5f4ffc6c74ccf1325ecf101dac9622ce28554e66"
+file = "mods/carpet-extra.pw.toml"
+hash = "3d3b8336379b6d9f072476caf1f91b13e7e02e70fab23399e4e695eca48369fb"
 metafile = true
 
 [[files]]
 file = "mods/carpet-fixes-1.20-1.16.1.jar"
 hash = "8c5528b69eabfc6b76df3806d61d400a95ee65ea0e55f7a16f16a4af8480d55b"
+
+[[files]]
+file = "mods/carpet-fixes.pw.toml"
+hash = "590d03cf3e5e0915028c371ad4f5b7d0ac37b8108f06c242febbdbd131dd56f2"
+metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
@@ -56,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8ad92515a4d70ba75d0affea314f19274faf06344c835a1b59d21724d011fb34"
+hash = "db3c8e7c289678e7244a3cc0300303ebe68008b134e2ddfb207f7a2fb8cfa262"
 metafile = true
 
 [[files]]
@@ -85,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/ledger.pw.toml"
-hash = "72c0e40f9da94cf5dad4d4dbcd264a58cf785fff2f86f1738df77e5d4ef410b4"
+hash = "0684b15fd9fd27d81fc7175947d086cbc36d60ef565fc6175d82b11bf3d9c58d"
 metafile = true
 
 [[files]]
@@ -105,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcdiscordchat.pw.toml"
-hash = "e2346db307dd683e66236cd1d7160c593fbe7447da5ea246832760adb956e9e2"
+hash = "fcba23d67c2942a1724b15f54ab968e64146498801da9c531618a027ecfaf308"
 metafile = true
 
 [[files]]
@@ -120,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "544c3f52ee5bc050074ab01908485bf2a4d771171e2d706a641c929598968c22"
+hash = "7df4e9e2dcdae03cff43d5c0159b638f6b2eba53d3f9419a756facb0bcce4101"
 metafile = true
 
 [[files]]
@@ -135,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "887462ace66aec67827987e39c01e8f6c5f2c07e265b90ac9f611133c5f59a63"
+hash = "671f00e95fdab8f0d4ecdde36e0954221dc6945552c423fe8cec6994b0f64a7a"
 metafile = true
 
 [[files]]
@@ -176,4 +181,9 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "25f30abe64eb76ee087648f3995a757868d2c5e1778610c03141bf8d2de2d955"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "79da525a4d5d520536f3de521cb6d4a812f7143c4028c288ca3f44b09c7e26c8"
 metafile = true
