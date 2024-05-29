@@ -21,11 +21,6 @@ file = "mods/LuckPerms-Fabric-PlaceholderAPI-Hook.jar"
 hash = "8725f502a6277a38be066c0c7b8a11a193381c0de8e1f5857debd67f282cbd04"
 
 [[files]]
-file = "mods/async-locator.pw.toml"
-hash = "b0c84806bc32028e006144a81865ff5180614bb8146ffc265a905bb2c6c3e1bb"
-metafile = true
-
-[[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "e191e6e7133d5979f2b99a872db9a067822c0529debbda7d51f4eb9f96c00000"
 metafile = true
@@ -101,11 +96,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
-metafile = true
-
-[[files]]
-file = "mods/log-begone.pw.toml"
-hash = "63546806d3dee28561f471db20b855a00965b2f6d8dc122566ab42120aff57fd"
 metafile = true
 
 [[files]]
