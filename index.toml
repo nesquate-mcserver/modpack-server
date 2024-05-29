@@ -36,10 +36,6 @@ hash = "3d3b8336379b6d9f072476caf1f91b13e7e02e70fab23399e4e695eca48369fb"
 metafile = true
 
 [[files]]
-file = "mods/carpet-fixes-1.20-1.16.1.jar"
-hash = "8c5528b69eabfc6b76df3806d61d400a95ee65ea0e55f7a16f16a4af8480d55b"
-
-[[files]]
 file = "mods/carpet-fixes.pw.toml"
 hash = "590d03cf3e5e0915028c371ad4f5b7d0ac37b8108f06c242febbdbd131dd56f2"
 metafile = true
@@ -63,10 +59,6 @@ metafile = true
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
-
-[[files]]
-file = "mods/fabric-permissions-api.jar"
-hash = "a8e808dffaa62afaa2780cf712865bab0941572568ffad573f1bec94c459b9b9"
 
 [[files]]
 file = "mods/fabric-permissions-api.pw.toml"
