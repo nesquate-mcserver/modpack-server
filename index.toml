@@ -27,12 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "8fe794b4355754d3d8f837f127ca2abe086d03e1b871101b61e77717076b2a65"
+hash = "e191e6e7133d5979f2b99a872db9a067822c0529debbda7d51f4eb9f96c00000"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d3a7764f686bd4c6e44ef7e2ec0581fdefeb9ed3d4aab1db63aa58821a264d61"
+hash = "e2c268027d63e997ef750bcbc76e9ee29c775b7121a0be28a121bc4f332a7092"
 metafile = true
 
 [[files]]
@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "6ea66a58b0188c6e5ec3375e066c03ed63c2dbd72289c5c9ad27803612f3cc58"
+hash = "d0b3fc29fa1da52f028fdeb2708c75913b963e1ea56fbb88db94e48c30786ecf"
 metafile = true
 
 [[files]]
@@ -61,12 +61,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "db3c8e7c289678e7244a3cc0300303ebe68008b134e2ddfb207f7a2fb8cfa262"
+hash = "07e0e6a791f94db3ff245a16ba014936e35410fe0ee9aba9cbac2deee25f5a70"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/ledger.pw.toml"
-hash = "0684b15fd9fd27d81fc7175947d086cbc36d60ef565fc6175d82b11bf3d9c58d"
+hash = "0e255fdef786cb44191db898a911dab8e7e9bff0f9a0b1ee9b453707522a058f"
 metafile = true
 
 [[files]]
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcdiscordchat.pw.toml"
-hash = "fcba23d67c2942a1724b15f54ab968e64146498801da9c531618a027ecfaf308"
+hash = "b35a61ebdab546e85ce5cb7f4d4216e82f9b08a06dab36b9242da5286f0b65ac"
 metafile = true
 
 [[files]]
@@ -125,17 +125,17 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "a045df0a5d03ef89d92ca9318aa42a5a5e7617b37dd38d32b0a7058c0f6f4ef7"
+hash = "a6a57004f5990ae59be0b89eb2edc5f50e2233d0410bd5f8060d58401592e0ef"
 metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "7df4e9e2dcdae03cff43d5c0159b638f6b2eba53d3f9419a756facb0bcce4101"
+hash = "7c647f3090c57732c32306de0a080ea190ec6562af5dbc2be3e7a9d4cadc8b7c"
 metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "02421594640b86ccd43e888d0413ade610b4a87bb5a2325cccdfda0a502c5b61"
+hash = "943e13d07bc64f2410603366e77b1966f00bda18bf6430a9149282ac1d06a0fd"
 metafile = true
 
 [[files]]
@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "671f00e95fdab8f0d4ecdde36e0954221dc6945552c423fe8cec6994b0f64a7a"
+hash = "b802b607dc76cbaba1cbf085be896d2c6996bef39b64a09fcf5ddb8b6a0ad968"
 metafile = true
 
 [[files]]
@@ -175,15 +175,15 @@ metafile = true
 
 [[files]]
 file = "mods/vanilla-permissions.pw.toml"
-hash = "237f8ebf563d146096b05a9d9120fd28714a2885b88a87e10bbd0730a22ec0eb"
+hash = "878bdfcf12aa401187d7ae2099b9c32659494b49034456b300b04b08899a4515"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "25f30abe64eb76ee087648f3995a757868d2c5e1778610c03141bf8d2de2d955"
+hash = "d5fa0e898cb2233b7928c1b6109d041e3f0a507bdbdca6aefabbb4462044d9c6"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "79da525a4d5d520536f3de521cb6d4a812f7143c4028c288ca3f44b09c7e26c8"
+hash = "e92e0c8f73b049649c18fc8a5f2e9a7fe310ed6cec310811399db51b99a2b715"
 metafile = true
