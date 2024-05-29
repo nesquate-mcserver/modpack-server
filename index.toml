@@ -169,11 +169,6 @@ hash = "39bdfc596f88235de2e387d107f2e184040cb7a7c6055303247f406e86e8264a"
 metafile = true
 
 [[files]]
-file = "mods/syncmatica.pw.toml"
-hash = "b8686f7382b6667de82d37b7f0ef8a33955b6ee65231d0178fb78d6eb14bf5a5"
-metafile = true
-
-[[files]]
 file = "mods/vanilla-permissions.pw.toml"
 hash = "237f8ebf563d146096b05a9d9120fd28714a2885b88a87e10bbd0730a22ec0eb"
 metafile = true
