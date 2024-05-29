@@ -141,11 +141,6 @@ hash = "3f1cdc39c7c76eba1c62b6f22d07f9507ff1c9a9e860f179481ec63449451a79"
 metafile = true
 
 [[files]]
-file = "mods/starlight.pw.toml"
-hash = "18ee61062b3f43fd026ee620bb2de6073de791132c5067d262bd424628bed4a5"
-metafile = true
-
-[[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "3ef4b93adbac3581872c2464fc33f6026b1caaedf3237acdd0a9be2cf77cc7ad"
 metafile = true
