@@ -74,6 +74,11 @@ file = "mods/fabric-permissions-api.jar"
 hash = "a8e808dffaa62afaa2780cf712865bab0941572568ffad573f1bec94c459b9b9"
 
 [[files]]
+file = "mods/fabric-permissions-api.pw.toml"
+hash = "5a3120cff8cdb296fe3c03e77624fd4505011751133ec573dd3c426c6e1e1229"
+metafile = true
+
+[[files]]
 file = "mods/fabricproxy-lite.pw.toml"
 hash = "1b4999da08f3479112d3a04c57be1f0ffa14c61e629ea95831d30af830baa069"
 metafile = true
