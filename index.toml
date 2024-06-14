@@ -22,7 +22,7 @@ hash = "8725f502a6277a38be066c0c7b8a11a193381c0de8e1f5857debd67f282cbd04"
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "e191e6e7133d5979f2b99a872db9a067822c0529debbda7d51f4eb9f96c00000"
+hash = "56a04736e45c2bb85c8a9f9a9377493b38bfd00a13f740b45b9920545c4db9bb"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "a3880e8dec63d483c58406ddf0eb1e45f117b99baae0f60a24c048d5b1a1449a"
+hash = "890c039d5c8a645f446f30c85593e86cbffa110e3662dcf985fe72d7089ea6c5"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "943e13d07bc64f2410603366e77b1966f00bda18bf6430a9149282ac1d06a0fd"
+hash = "776a8c141073e136f9b13daef58089b6e3b19bc86940b52d65bc57a637bacdd5"
 metafile = true
 
 [[files]]
@@ -182,5 +182,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "d51319ac7b9e0fdedb835346c235748b0a0ceade7277356a7510840d460d05e9"
+hash = "9b3a6d6a22c560293998d90415d6a318f63b179f62ac9d00775bcbd6ece07a29"
 metafile = true
