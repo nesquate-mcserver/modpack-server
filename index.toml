@@ -5,6 +5,10 @@ file = "README.md"
 hash = "4fb0cb37de5a6de765958c81c93af543c6c89b69d0fbbf9eda2380c3138101d2"
 
 [[files]]
+file = "config/Sit!.properties"
+hash = "93f996dcb6e7e244dcd36cb291103f99145a2fc669fc2267f61d7c55a1eafe53"
+
+[[files]]
 file = "config/styled-chat.json"
 hash = "fc67b511f239aaf82dee4480ccce15c29f0870f956ee668a106f2ec25093e540"
 
@@ -15,6 +19,14 @@ hash = "b87de7a7b0911989d203f78a034f1ab15d26ee3ac985adc40be9cffa8c27aeff"
 [[files]]
 file = "config/styledplayerlist/styles/default.json"
 hash = "5b64a5cb4b72963b04dea7ffa645761afd7b5713b915016bc78321a8fb9fe78c"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "10ba22dca29b33ace769afd33c752cf1e8217d9e112b4a6ced7fef2c93e46632"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "10ba22dca29b33ace769afd33c752cf1e8217d9e112b4a6ced7fef2c93e46632"
 
 [[files]]
 file = "mods/LuckPerms-Fabric-PlaceholderAPI-Hook.jar"
@@ -111,6 +123,11 @@ hash = "0232ec9d048fafef4d30897343834e6958580863be3ba53ce85abe80ba799878"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "de2418fe5a741b35af01672f849dd3db2963d7fe66912e3a96adbe38260c1dc4"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
 metafile = true
@@ -133,6 +150,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "8f541ff641df705e688c2f1f3df042527e8c33e096ab5e62252e6b6c88daba84"
+metafile = true
+
+[[files]]
+file = "mods/sit!.pw.toml"
+hash = "5142cd2e91e115f231ef2bb0a316e0eab06118b184ddb1c487bcb917072a7bc0"
 metafile = true
 
 [[files]]
@@ -166,6 +188,16 @@ hash = "d8e6f0094a243233e66416c418671a891c417f7cfec2df40c1442fa82ec45b0d"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "1adad23c8fc486bcf581cff6b3123e0641c43226cb0f3afbfe3a14e1247e8419"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "1ccecc3b1c8974528e7092c40299b80f6f965d62c103133d9aa8dccacab5787b"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "7f7768f2047011ed61c9bbec29bbcd2d06c5eb8ab731d442b9ecc2c01bbc8c6b"
 metafile = true
