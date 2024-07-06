@@ -1,13 +1,13 @@
 name = "MCDR Command Fabric"
-filename = "MCDRcommandFabric-1.20.4-v1.2.1.jar"
+filename = "MCDRcommandFabric-1.21-v1.2.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/kV8qN2Aj/versions/fYsYVylY/MCDRcommandFabric-1.20.4-v1.2.1.jar"
+url = "https://cdn.modrinth.com/data/kV8qN2Aj/versions/BE6S2UGR/MCDRcommandFabric-1.21-v1.2.1.jar"
 hash-format = "sha1"
-hash = "ebd772ba7e74e5f639f82eeb1d372e114130684f"
+hash = "379b033aa45b7c21f1255c82cb0f4a757c44ef8e"
 
 [update]
 [update.modrinth]
 mod-id = "kV8qN2Aj"
-version = "fYsYVylY"
+version = "BE6S2UGR"

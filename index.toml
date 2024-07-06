@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e9870688b5c78a9cc50f79922fdac81e1999279f5567cd5092952adaf6471313"
+hash = "fc96b91acafcbaf76bf94d2dff7d53a53fdbf52ccc6030acbfffe13a365cc982"
 metafile = true
 
 [[files]]
@@ -84,7 +84,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "e504921c61ca8e6ab32a5c1af997d6a6bd1184a68b61503dd221d87a11253ce8"
+hash = "ac58ba4fbc27b2c29eac0d1d13eb1a2cd81c664a00313f98fc37462fc1501515"
 metafile = true
 
 [[files]]
@@ -114,12 +114,12 @@ metafile = true
 
 [[files]]
 file = "mods/mcdr-command-fabric.pw.toml"
-hash = "df13a6348cc6eb88f3405151aad29d93901da4a94f98121bd0dfa886fdc5b525"
+hash = "570de7791cec7082f19a1af8eb1cee2921a9f4186fd1d020f87544b94a3a495e"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0232ec9d048fafef4d30897343834e6958580863be3ba53ce85abe80ba799878"
+hash = "cc11c1fb39cdb35ac006ddd77bc33dc578e5ff1314ea76c2b9162ec5b53b10cd"
 metafile = true
 
 [[files]]
@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8f541ff641df705e688c2f1f3df042527e8c33e096ab5e62252e6b6c88daba84"
+hash = "555516aa5d5572cc85cd517bcb85eba16b999d21cb1e9835877adf0c96486cb9"
 metafile = true
 
 [[files]]
@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
-hash = "00ed461c9c2482cd9e6e6e67c944b3ffaf71234e0c991681d1fc3ef9ad034d8e"
+hash = "615cc195f32f56bf0b038a782bcd157fa01be5dd11b16627de11c3c7932577d7"
 metafile = true
 
 [[files]]
