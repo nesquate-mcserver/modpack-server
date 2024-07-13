@@ -29,10 +29,6 @@ file = "config/xaeroworldmap-common.txt"
 hash = "10ba22dca29b33ace769afd33c752cf1e8217d9e112b4a6ced7fef2c93e46632"
 
 [[files]]
-file = "mods/LuckPerms-Fabric-PlaceholderAPI-Hook.jar"
-hash = "8725f502a6277a38be066c0c7b8a11a193381c0de8e1f5857debd67f282cbd04"
-
-[[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "f1d3adbe9c3562c5cea15aa9258863528b8f3e167ddcd1a37128dd0d92605f27"
 metafile = true
