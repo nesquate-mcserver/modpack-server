@@ -14,7 +14,7 @@
     "emoticons": false
   },
   "default": {
-    "display_name": "%luckperms:prefix%${default}",
+    "display_name": "${default}",
     "message_formats": {
       "chat": "<${player}> ${message}",
       "joined_the_game": "<yellow><lang:multiplayer.player.joined:'${player}'></yellow>",
