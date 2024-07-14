@@ -1,12 +1,12 @@
 name = "Nesquate Server's Server Modpack"
 author = "Nesquate"
-version = "2.0.2"
+version = "2.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a805e0628e98f35d3b08e066120f0b41ac22bdb8c1fc8f1632981d7863472183"
+hash = "d9d421179b1bd864ed4f43b8638e7d67feccc0e2461e1db60324e01d5b82b142"
 
 [versions]
 fabric = "0.15.11"

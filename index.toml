@@ -159,6 +159,11 @@ hash = "bea01f76d30359b4013aee8df6863fda0be45e03cbc2e0a4c80f4bc88db3b27a"
 metafile = true
 
 [[files]]
+file = "mods/stackable-shulkers-fix.pw.toml"
+hash = "6c05819075103712f850522e42daac88218eac4545a4cb1deccf5298e63e7d15"
+metafile = true
+
+[[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "7d87d7de16a25973902fa27e494bf6d9dd5dadb22f7d35021f8d80a1e0621dfb"
 metafile = true
