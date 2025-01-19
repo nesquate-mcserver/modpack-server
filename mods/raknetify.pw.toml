@@ -1,13 +1,13 @@
 name = "Raknetify"
-filename = "raknetify-fabric-0.1.0+alpha.5.128-all.jar"
+filename = "raknetify-fabric-0.1.0+alpha.5.149-all.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5IovSY3u/versions/gchRoKmg/raknetify-fabric-0.1.0%2Balpha.5.128-all.jar"
-hash-format = "sha1"
-hash = "9f3e9018352ee331e61ebb010e91b6c3b41a0972"
+url = "https://cdn.modrinth.com/data/5IovSY3u/versions/XxucdaOv/raknetify-fabric-0.1.0%2Balpha.5.149-all.jar"
+hash-format = "sha512"
+hash = "4d14cfd22c2e0f08ff81adca4faa64c19b7c170d04c82a3c59207a6004c6b2d787ad037c263d24354c5a44b81100f32755d6c3cc47742535e50c62986e742175"
 
 [update]
 [update.modrinth]
 mod-id = "5IovSY3u"
-version = "gchRoKmg"
+version = "XxucdaOv"
