@@ -29,13 +29,23 @@ file = "config/xaeroworldmap-common.txt"
 hash = "10ba22dca29b33ace769afd33c752cf1e8217d9e112b4a6ced7fef2c93e46632"
 
 [[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "610076c89a6e55343df37808fcf59806330eb37b4108c5b080807c95cd0c7162"
+metafile = true
+
+[[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "dc3575dab2673b765947da8a87c01464ea77af8fe355fe18579dce514b35be7a"
 metafile = true
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "7a5f1830a01e3b80f8401a4ba9a3dcd54a0b70d0d049a35a3f655c63489eab5a"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "9ed0ebdd06c52585b460498934aad77d25fb97c0b144c2f0ab63cef262d31318"
+hash = "82302805c9d6e897108da0e5abafd367eac05b517d9e892a2355cd0d91946b53"
 metafile = true
 
 [[files]]
@@ -55,12 +65,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e0060dd5608032c12619d942e2004f7a1635ebadaef3b928445d2211f082f01f"
+hash = "7bac418be4f003dc98ecacaac516120320f02f3eceef0541989bc98f89fc8608"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
+hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
 metafile = true
 
 [[files]]
@@ -80,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "0b446dc08ae7ff46ec66ea91b8282a09a06b6cc2ffb58b5ea9693dd978bfcc76"
+hash = "2f4ce060f0445bacbbb3598752200ba36f49d8727bf7499df825e10df5a6d775"
 metafile = true
 
 [[files]]
@@ -95,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "d89fd4dac3a09fa8dd3c11143a95de26be31da26c0cfd3e2b5dec9565c9f54d4"
+hash = "bc213d7a99082681c3b76ec0a08d2c7b697eff9327c314497b52e64bc7d9d78d"
 metafile = true
 
 [[files]]
@@ -115,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a21dbd676882b344c8d7158e234f19d380598eb1b63492a34bd75dddc42cfedd"
+hash = "6be9bf8af4c867d6cc7c680df870e2b878fbec4090160f3df3a8426c61216472"
 metafile = true
 
 [[files]]
@@ -135,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "a1383142f732cb59c80b8b718f8e470a6a77d6076166edab62e8ff48a807b106"
+hash = "f92a29e6cee84301e1418980bd76f2dc2aff615cba6243a331068522ce2c50e0"
 metafile = true
 
 [[files]]
@@ -160,12 +170,12 @@ metafile = true
 
 [[files]]
 file = "mods/stackable-shulkers-fix.pw.toml"
-hash = "3b65db2439fb5e9844fa96ffd536855e7daeb6bf214230bb44864501d14ec66d"
+hash = "f6435ad11b706ef41babd02496b395d374ac48c5ba2f529a336d98b03e2ec495"
 metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "7d87d7de16a25973902fa27e494bf6d9dd5dadb22f7d35021f8d80a1e0621dfb"
+hash = "22a65829892382f1f4a8cea2c788fcedabf231c86b0852f9cbe33c65436a0d53"
 metafile = true
 
 [[files]]
@@ -176,6 +186,11 @@ metafile = true
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
 hash = "615cc195f32f56bf0b038a782bcd157fa01be5dd11b16627de11c3c7932577d7"
+metafile = true
+
+[[files]]
+file = "mods/syncmatica.pw.toml"
+hash = "5418953c173312f623ed5fbde524cb402ec4b683d6de5f5d402e9f6976686a48"
 metafile = true
 
 [[files]]
@@ -205,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "8adf98b44487e49b8e35bcba3ec1edbe0a90fe44a3574536eced9d26036d06cb"
+hash = "c1a94bbf04e20aa75c465cae21d84a29f853f59d3e0c490884c27b8c365e3781"
 metafile = true
 
 [[files]]
