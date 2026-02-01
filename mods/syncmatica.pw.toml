@@ -1,7 +1,13 @@
 name = "Syncmatica"
-filename = "syncmatica-fabric-1.21-0.3.13-sakura.2.jar"
+filename = "syncmatica-fabric-1.21.11-0.3.17.jar"
+side = "both"
 
 [download]
-url = "https://github.com/sakura-ryoko/syncmatica/releases/download/1.21-0.3.13-sakura.2/syncmatica-fabric-1.21-0.3.13-sakura.2.jar"
-hash-format = "sha256"
-hash = "fcf724b01f2c15cf70f02a499eff496ae6b68d6fd55deff7f8318a2b2f7b8f63"
+url = "https://cdn.modrinth.com/data/bfneejKo/versions/a3qv3pRT/syncmatica-fabric-1.21.11-0.3.17.jar"
+hash-format = "sha512"
+hash = "c017680f77206a55e8bcd88cac631c54e38ac12d9f92b2f3dffb0e2309ff21c37684b2c677d84e72b6ed3b93b0ed4fa1fec3ac161b06a47be1b9298270ce1582"
+
+[update]
+[update.modrinth]
+mod-id = "bfneejKo"
+version = "a3qv3pRT"

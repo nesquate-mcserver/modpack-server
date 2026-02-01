@@ -1,13 +1,13 @@
 name = "Stackable Shulkers Fix"
-filename = "shulkerfix-1.7.1.jar"
+filename = "shulkerfix-1.7.7+1.21.11.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/qr7VQIiR/versions/C7rVMdgh/shulkerfix-1.7.1.jar"
+url = "https://cdn.modrinth.com/data/qr7VQIiR/versions/NXnbArFr/shulkerfix-1.7.7%2B1.21.11.jar"
 hash-format = "sha512"
-hash = "a86bcacb6f47b2c9c645ea0ed71657bbcc7e2f82afe09e8f987451888d9599af1ed945cc4a3c2a97a8ee42702384bae17e11cb1e981174f260937bd6732cb8d5"
+hash = "d9c8f70e1c4c1bb47eb866b4b6cc1818d02326f98a9e8b954b3763f367817e48fba5c5c0055d37c1961c9ee1df6d7a645061156fafc91224998f98fed0b51b11"
 
 [update]
 [update.modrinth]
 mod-id = "qr7VQIiR"
-version = "C7rVMdgh"
+version = "NXnbArFr"
